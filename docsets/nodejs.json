@@ -1,0 +1,272 @@
+{
+  "id": "nodejs",
+  "name": "Node.js",
+  "category": "Backend",
+  "description": "An open-source, cross-platform JavaScript runtime environment executing V8 outside the browser.",
+  "icon": "nodejs",
+  "format": "dash",
+  "latest_version": "26",
+  "latest_lts_version": "26",
+  "versions": [
+    {
+      "version": "26",
+      "display_name": "v26 (26.10.0)",
+      "is_lts": true,
+      "is_eol": false,
+      "is_latest": true,
+      "release_date": "2026-05-05",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "25",
+      "display_name": "v25 (25.9.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2025-10-15",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "24",
+      "display_name": "v24 (24.21.0)",
+      "is_lts": true,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2025-05-06",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "23",
+      "display_name": "v23 (23.11.1)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2024-10-16",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "22",
+      "display_name": "v22 (22.23.2)",
+      "is_lts": true,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2024-04-24",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "21",
+      "display_name": "v21 (21.7.3)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2023-10-17",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "20",
+      "display_name": "v20 (20.20.2)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2023-04-18",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "19",
+      "display_name": "v19 (19.9.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2022-10-18",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "18",
+      "display_name": "v18 (18.20.8)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2022-04-19",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "17",
+      "display_name": "v17 (17.9.1)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2021-10-19",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "16",
+      "display_name": "v16 (16.20.2)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2021-04-20",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "15",
+      "display_name": "v15 (15.14.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2020-10-20",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "14",
+      "display_name": "v14 (14.21.3)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2020-04-21",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "13",
+      "display_name": "v13 (13.14.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2019-10-22",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "12",
+      "display_name": "v12 (12.22.12)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2019-04-23",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "11",
+      "display_name": "v11 (11.15.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2018-10-23",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "10",
+      "display_name": "v10 (10.24.1)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2018-04-24",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "9",
+      "display_name": "v9 (9.11.2)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-10-31",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "8",
+      "display_name": "v8 (8.17.0)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-05-30",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "7",
+      "display_name": "v7 (7.10.1)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2016-10-25",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "6",
+      "display_name": "v6 (6.17.1)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2016-04-26",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "5",
+      "display_name": "v5 (5.12.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2015-10-30",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "4",
+      "display_name": "v4 (4.9.1)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2015-09-09",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "3",
+      "display_name": "v3 (3.3.1)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2015-08-04",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "2",
+      "display_name": "v2 (2.5.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2015-05-04",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    },
+    {
+      "version": "1",
+      "display_name": "v1 (1.8.4)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2015-01-20",
+      "download_url": "https://kapeli.com/feeds/NodeJS.tgz",
+      "size_bytes": 16500000
+    }
+  ]
+}

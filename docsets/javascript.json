@@ -1,0 +1,72 @@
+{
+  "id": "javascript",
+  "name": "JavaScript (MDN)",
+  "category": "Languages",
+  "description": "Mozilla Developer Network comprehensive documentation for JavaScript standard built-in objects and APIs.",
+  "icon": "javascript",
+  "format": "dash",
+  "latest_version": "ES2024",
+  "latest_lts_version": "ES2024",
+  "versions": [
+    {
+      "version": "ES2024",
+      "display_name": "ES2024 (15th Edition)",
+      "is_lts": true,
+      "is_eol": false,
+      "is_latest": true,
+      "release_date": "2024",
+      "download_url": "https://kapeli.com/feeds/JavaScript.tgz",
+      "size_bytes": 28400000
+    },
+    {
+      "version": "ES2023",
+      "display_name": "ES2023 (14th Edition)",
+      "is_lts": true,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2023",
+      "download_url": "https://kapeli.com/feeds/JavaScript.tgz",
+      "size_bytes": 28400000
+    },
+    {
+      "version": "ES2022",
+      "display_name": "ES2022 (13th Edition)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2022",
+      "download_url": "https://kapeli.com/feeds/JavaScript.tgz",
+      "size_bytes": 28400000
+    },
+    {
+      "version": "ES2021",
+      "display_name": "ES2021 (12th Edition)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2021",
+      "download_url": "https://kapeli.com/feeds/JavaScript.tgz",
+      "size_bytes": 28400000
+    },
+    {
+      "version": "ES2020",
+      "display_name": "ES2020 (11th Edition)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2020",
+      "download_url": "https://kapeli.com/feeds/JavaScript.tgz",
+      "size_bytes": 28400000
+    },
+    {
+      "version": "ES2015",
+      "display_name": "ES6 / ES2015",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2015",
+      "download_url": "https://kapeli.com/feeds/JavaScript.tgz",
+      "size_bytes": 28400000
+    }
+  ]
+}

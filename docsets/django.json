@@ -1,0 +1,242 @@
+{
+  "id": "django",
+  "name": "Django",
+  "category": "Backend",
+  "description": "A high-level Python web framework that encourages rapid development and clean, pragmatic design.",
+  "icon": "django",
+  "format": "dash",
+  "latest_version": "6.1",
+  "latest_lts_version": "5.2",
+  "versions": [
+    {
+      "version": "6.1",
+      "display_name": "v6.1 (6.1.1)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": true,
+      "release_date": "2026-08-05",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "6.0",
+      "display_name": "v6.0 (6.0.8)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2025-12-03",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "5.2",
+      "display_name": "v5.2 (5.2.17)",
+      "is_lts": true,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2025-04-02",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "5.1",
+      "display_name": "v5.1 (5.1.15)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2024-08-07",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "5.0",
+      "display_name": "v5.0 (5.0.14)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2023-12-04",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "4.2",
+      "display_name": "v4.2 (4.2.30)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2023-04-03",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13100000
+    },
+    {
+      "version": "4.1",
+      "display_name": "v4.1 (4.1.13)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2022-08-03",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "4.0",
+      "display_name": "v4.0 (4.0.10)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2021-12-07",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "3.2",
+      "display_name": "v3.2 (3.2.25)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2021-04-06",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "3.1",
+      "display_name": "v3.1 (3.1.14)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2020-08-04",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "3.0",
+      "display_name": "v3.0 (3.0.14)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2019-12-02",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "2.2",
+      "display_name": "v2.2 (2.2.28)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2019-04-01",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "2.1",
+      "display_name": "v2.1 (2.1.15)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2018-08-01",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "2.0",
+      "display_name": "v2.0 (2.0.13)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-12-02",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "1.11",
+      "display_name": "v1.11 (1.11.29)",
+      "is_lts": true,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-04-04",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "1.10",
+      "display_name": "v1.10 (1.10.8)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2016-08-01",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "1.9",
+      "display_name": "v1.9 (1.9.13)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2015-12-01",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "1.8",
+      "display_name": "v1.8 (1.8.19)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2015-04-01",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "1.7",
+      "display_name": "v1.7 (1.7.11)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2014-09-03",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "1.6",
+      "display_name": "v1.6 (1.6.11)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2013-11-06",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "1.5",
+      "display_name": "v1.5 (1.5.12)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2013-02-26",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "1.4",
+      "display_name": "v1.4 (1.4.22)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2012-03-23",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    },
+    {
+      "version": "1.3",
+      "display_name": "v1.3 (1.3.7)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2011-03-23",
+      "download_url": "https://kapeli.com/feeds/Django.tgz",
+      "size_bytes": 13900000
+    }
+  ]
+}

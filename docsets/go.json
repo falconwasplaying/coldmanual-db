@@ -1,0 +1,192 @@
+{
+  "id": "go",
+  "name": "Go",
+  "category": "Languages",
+  "description": "An open source programming language supported by Google for building simple, fast, and reliable software.",
+  "icon": "go",
+  "format": "dash",
+  "latest_version": "1.27",
+  "latest_lts_version": "",
+  "versions": [
+    {
+      "version": "1.27",
+      "display_name": "v1.27 (1.27.1)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": true,
+      "release_date": "2026-08-19",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.26",
+      "display_name": "v1.26 (1.26.8)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2026-02-10",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.25",
+      "display_name": "v1.25 (1.25.14)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2025-08-12",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.24",
+      "display_name": "v1.24 (1.24.13)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2025-02-11",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.23",
+      "display_name": "v1.23 (1.23.12)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2024-08-13",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.22",
+      "display_name": "v1.22 (1.22.12)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2024-02-06",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.21",
+      "display_name": "v1.21 (1.21.13)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2023-08-08",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 20900000
+    },
+    {
+      "version": "1.20",
+      "display_name": "v1.20 (1.20.14)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2023-02-01",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.19",
+      "display_name": "v1.19 (1.19.13)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2022-08-02",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.18",
+      "display_name": "v1.18 (1.18.10)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2022-03-15",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.17",
+      "display_name": "v1.17 (1.17.13)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2021-08-16",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.16",
+      "display_name": "v1.16 (1.16.15)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2021-02-16",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.15",
+      "display_name": "v1.15 (1.15.15)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2020-08-11",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.14",
+      "display_name": "v1.14 (1.14.15)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2020-02-25",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.13",
+      "display_name": "v1.13 (1.13.15)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2019-09-03",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.12",
+      "display_name": "v1.12 (1.12.17)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2019-02-25",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.11",
+      "display_name": "v1.11 (1.11.13)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2018-08-24",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    },
+    {
+      "version": "1.10",
+      "display_name": "v1.10 (1.10.8)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2018-02-16",
+      "download_url": "https://kapeli.com/feeds/Go.tgz",
+      "size_bytes": 21800000
+    }
+  ]
+}

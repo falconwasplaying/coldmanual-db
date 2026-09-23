@@ -1,0 +1,62 @@
+{
+  "id": "react",
+  "name": "React",
+  "category": "Frontend",
+  "description": "The library for web and native user interfaces developed by Meta.",
+  "icon": "react",
+  "format": "dash",
+  "latest_version": "19",
+  "latest_lts_version": "",
+  "versions": [
+    {
+      "version": "19",
+      "display_name": "v19 (19.3.0)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": true,
+      "release_date": "2024-12-05",
+      "download_url": "https://kapeli.com/feeds/React.tgz",
+      "size_bytes": 14200000
+    },
+    {
+      "version": "18",
+      "display_name": "v18 (18.3.1)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2022-03-29",
+      "download_url": "https://kapeli.com/feeds/React.tgz",
+      "size_bytes": 14200000
+    },
+    {
+      "version": "17",
+      "display_name": "v17 (17.0.2)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2020-10-20",
+      "download_url": "https://kapeli.com/feeds/React.tgz",
+      "size_bytes": 14200000
+    },
+    {
+      "version": "16",
+      "display_name": "v16 (16.14.0)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2017-09-26",
+      "download_url": "https://kapeli.com/feeds/React.tgz",
+      "size_bytes": 14200000
+    },
+    {
+      "version": "15",
+      "display_name": "v15 (15.7.0)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2016-04-07",
+      "download_url": "https://kapeli.com/feeds/React.tgz",
+      "size_bytes": 14200000
+    }
+  ]
+}

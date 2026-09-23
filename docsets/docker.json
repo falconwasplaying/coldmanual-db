@@ -1,0 +1,272 @@
+{
+  "id": "docker",
+  "name": "Docker",
+  "category": "DevOps",
+  "description": "Set of platform as a service products using OS-level virtualization to deliver software in packages called containers.",
+  "icon": "docker",
+  "format": "dash",
+  "latest_version": "29",
+  "latest_lts_version": "",
+  "versions": [
+    {
+      "version": "29",
+      "display_name": "v29 (29.8.1)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": true,
+      "release_date": "2025-11-10",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "28",
+      "display_name": "v28 (28.5.2)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2025-02-20",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "27",
+      "display_name": "v27 (27.5.1)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2024-06-25",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "26.1",
+      "display_name": "v26.1 (26.1.5)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2024-04-22",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "26.0",
+      "display_name": "v26.0 (26.0.2)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2024-03-20",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "25.0",
+      "display_name": "v25.0 (25.0.17)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": false,
+      "release_date": "2024-01-19",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "24.0",
+      "display_name": "v24.0 (24.0.9)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2023-05-16",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "23.0",
+      "display_name": "v23.0 (23.0.18)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2023-02-02",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "20.10",
+      "display_name": "v20.10 (20.10.27)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2020-12-09",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "19.03",
+      "display_name": "v19.03 (19.03.15)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2019-07-22",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "18.09",
+      "display_name": "v18.09 (18.09.9)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2018-11-08",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "18.06",
+      "display_name": "v18.06 (18.06.3)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2018-07-18",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "18.05",
+      "display_name": "v18.05 (18.05.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2018-04-25",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "18.04",
+      "display_name": "v18.04 (18.04.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2018-03-27",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "18.03",
+      "display_name": "v18.03 (18.03.1)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2018-03-14",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "18.02",
+      "display_name": "v18.02 (18.02.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2018-01-26",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "17.12",
+      "display_name": "v17.12 (17.12.1)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-12-15",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "18.01",
+      "display_name": "v18.01 (18.01.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-12-12",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "17.11",
+      "display_name": "v17.11 (17.11.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-11-17",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "17.10",
+      "display_name": "v17.10 (17.10.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-10-13",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "17.09",
+      "display_name": "v17.09 (17.09.1)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-09-22",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "17.07",
+      "display_name": "v17.07 (17.07.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-08-28",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "17.06",
+      "display_name": "v17.06 (17.06.2)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-06-20",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "17.05",
+      "display_name": "v17.05 (17.05.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-05-04",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "17.04",
+      "display_name": "v17.04 (17.04.0)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-04-03",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    },
+    {
+      "version": "17.03",
+      "display_name": "v17.03 (17.03.2)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2017-02-23",
+      "download_url": "https://kapeli.com/feeds/Docker.tgz",
+      "size_bytes": 19400000
+    }
+  ]
+}

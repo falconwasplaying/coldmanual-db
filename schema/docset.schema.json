@@ -1,0 +1,114 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ColdManual Docset Manifest",
+  "description": "Schema definition for a programming language or framework documentation manifest in ColdManual.",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "category",
+    "description",
+    "icon",
+    "format",
+    "latest_version",
+    "versions"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_-]+$",
+      "description": "Unique lowercase identifier for the docset (e.g. 'python', 'qt', 'cpp')."
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name of the technology (e.g. 'Python', 'Qt 6', 'C++')."
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Languages",
+        "Frontend",
+        "Backend",
+        "Databases",
+        "DevOps",
+        "Tools",
+        "General"
+      ],
+      "description": "High-level classification category."
+    },
+    "description": {
+      "type": "string",
+      "description": "Short 1-2 sentence description of the technology."
+    },
+    "icon": {
+      "type": "string",
+      "description": "Icon identifier or direct SVG/image URL."
+    },
+    "format": {
+      "type": "string",
+      "enum": ["dash", "devdocs", "html"],
+      "default": "dash",
+      "description": "Offline documentation format."
+    },
+    "latest_version": {
+      "type": "string",
+      "description": "Version string representing the latest stable release (e.g. '3.13', '23')."
+    },
+    "latest_lts_version": {
+      "type": "string",
+      "description": "Version string representing the latest active LTS release (e.g. '3.12', '6.8')."
+    },
+    "versions": {
+      "type": "array",
+      "description": "List of available releases with lifecycle tags and download URLs.",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["version"],
+        "properties": {
+          "version": {
+            "type": "string",
+            "description": "Identifier string for the version (e.g. '3.13', '6.8')."
+          },
+          "display_name": {
+            "type": "string",
+            "description": "Formatted version display string (e.g. 'v3.13 (3.13.1)')."
+          },
+          "is_lts": {
+            "type": "boolean",
+            "default": false,
+            "description": "True if this version has Long-Term Support."
+          },
+          "is_eol": {
+            "type": "boolean",
+            "default": false,
+            "description": "True if this version has reached End-of-Life / is unsupported."
+          },
+          "is_latest": {
+            "type": "boolean",
+            "default": false,
+            "description": "True if this represents the current latest release."
+          },
+          "release_date": {
+            "type": "string",
+            "description": "Release date (ISO 8601 YYYY-MM-DD or year)."
+          },
+          "download_url": {
+            "type": "string",
+            "format": "uri",
+            "description": "Direct download link to the docset archive."
+          },
+          "sha256": {
+            "type": "string",
+            "description": "SHA-256 hash of the archive for verification."
+          },
+          "size_bytes": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Archive size in bytes."
+          }
+        }
+      }
+    }
+  }
+}

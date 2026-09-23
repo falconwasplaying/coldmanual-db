@@ -1,0 +1,27 @@
+name: Validate & Compile Catalog
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run Schema Validator & Compiler
+        run: python scripts/build_catalog.py
+
+      - name: Check for Uncommitted Catalog Changes
+        run: |
+          git diff --exit-code catalog.json catalog.min.json || (echo "Error: catalog.json or catalog.min.json is out of sync. Please run 'python scripts/build_catalog.py' and commit the result." && exit 1)

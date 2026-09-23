@@ -1,0 +1,42 @@
+{
+  "id": "sqlite",
+  "name": "SQLite",
+  "category": "Databases",
+  "description": "A C-language library that implements a small, fast, self-contained, high-reliability, full-featured SQL database engine.",
+  "icon": "sqlite",
+  "format": "dash",
+  "latest_version": "3",
+  "latest_lts_version": "",
+  "versions": [
+    {
+      "version": "3",
+      "display_name": "v3 (3.53.4)",
+      "is_lts": false,
+      "is_eol": false,
+      "is_latest": true,
+      "release_date": "2004-09-18",
+      "download_url": "https://kapeli.com/feeds/SQLite.tgz",
+      "size_bytes": 11200000
+    },
+    {
+      "version": "2",
+      "display_name": "v2 (2.8.17)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2001-09-28",
+      "download_url": "https://kapeli.com/feeds/SQLite.tgz",
+      "size_bytes": 11200000
+    },
+    {
+      "version": "1",
+      "display_name": "v1 (1.0.32)",
+      "is_lts": false,
+      "is_eol": true,
+      "is_latest": false,
+      "release_date": "2000-08-17",
+      "download_url": "https://kapeli.com/feeds/SQLite.tgz",
+      "size_bytes": 11200000
+    }
+  ]
+}
