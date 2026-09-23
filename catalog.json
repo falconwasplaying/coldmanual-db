@@ -850,6 +850,48 @@
     ]
   },
   {
+    "id": "kotlin",
+    "name": "Kotlin",
+    "category": "Languages",
+    "description": "A modern, concise and safe programming language by JetBrains, fully interoperable with Java.",
+    "icon": "kotlin",
+    "format": "dash",
+    "latest_version": "2.0",
+    "latest_lts_version": "1.9",
+    "versions": [
+      {
+        "version": "2.0",
+        "display_name": "v2.0 (2.0.21)",
+        "is_lts": false,
+        "is_eol": false,
+        "is_latest": true,
+        "release_date": "2024-05-21",
+        "download_url": "https://kapeli.com/feeds/Kotlin.tgz",
+        "size_bytes": 22400000
+      },
+      {
+        "version": "1.9",
+        "display_name": "v1.9 (1.9.24)",
+        "is_lts": true,
+        "is_eol": false,
+        "is_latest": false,
+        "release_date": "2023-07-06",
+        "download_url": "https://kapeli.com/feeds/Kotlin.tgz",
+        "size_bytes": 21800000
+      },
+      {
+        "version": "1.8",
+        "display_name": "v1.8 (1.8.22)",
+        "is_lts": false,
+        "is_eol": true,
+        "is_latest": false,
+        "release_date": "2022-12-28",
+        "download_url": "https://kapeli.com/feeds/Kotlin.tgz",
+        "size_bytes": 20100000
+      }
+    ]
+  },
+  {
     "id": "nodejs",
     "name": "Node.js",
     "category": "Backend",
