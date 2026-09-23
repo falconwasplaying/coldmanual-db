@@ -126,7 +126,10 @@ def build_catalog():
                     data["latest_lts_version"] = v["version"]
                     break
 
-        print(f"[OK]   {data['id']:<15} -> {data['name']:<18} ({len(versions)} versions)")
+        icon_name = data.get("icon", data.get("id"))
+        has_logo = (ROOT_DIR / "logos" / f"{icon_name}.svg").exists()
+        logo_tag = "SVG: OK" if has_logo else "NO SVG"
+        print(f"[OK]   {data['id']:<15} -> {data['name']:<18} ({len(versions)} versions) [{logo_tag}]")
         compiled_docsets.append(data)
 
     if has_errors:

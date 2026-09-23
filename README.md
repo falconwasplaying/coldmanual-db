@@ -41,6 +41,7 @@ coldmanual-db/
 │   ├── docker.json
 │   ├── go.json
 │   ├── javascript.json
+│   ├── kotlin.json
 │   ├── nodejs.json
 │   ├── postgresql.json
 │   ├── python.json
@@ -48,6 +49,11 @@ coldmanual-db/
 │   ├── react.json
 │   ├── rust.json
 │   └── sqlite.json
+├── logos/                       # Official vector SVG logos
+│   ├── python.svg
+│   ├── kotlin.svg
+│   ├── ...
+│   └── code.svg
 ├── schema/
 │   └── docset.schema.json       # JSON Schema definition
 ├── scripts/
