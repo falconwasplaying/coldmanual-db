@@ -15,8 +15,8 @@
       "is_eol": false,
       "is_latest": true,
       "release_date": "2025-11-10",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "28",
@@ -25,8 +25,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2025-02-20",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "27",
@@ -35,8 +35,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2024-06-25",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "26.1",
@@ -45,8 +45,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2024-04-22",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "26.0",
@@ -55,8 +55,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2024-03-20",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "25.0",
@@ -65,8 +65,8 @@
       "is_eol": false,
       "is_latest": false,
       "release_date": "2024-01-19",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "24.0",
@@ -75,8 +75,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2023-05-16",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "23.0",
@@ -85,8 +85,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2023-02-02",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "20.10",
@@ -95,8 +95,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2020-12-09",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "19.03",
@@ -105,8 +105,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2019-07-22",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "18.09",
@@ -115,8 +115,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2018-11-08",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "18.06",
@@ -125,8 +125,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2018-07-18",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "18.05",
@@ -135,8 +135,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2018-04-25",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "18.04",
@@ -145,8 +145,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2018-03-27",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "18.03",
@@ -155,8 +155,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2018-03-14",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "18.02",
@@ -165,8 +165,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2018-01-26",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "17.12",
@@ -175,8 +175,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2017-12-15",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "18.01",
@@ -185,8 +185,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2017-12-12",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "17.11",
@@ -195,8 +195,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2017-11-17",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "17.10",
@@ -205,8 +205,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2017-10-13",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "17.09",
@@ -215,8 +215,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2017-09-22",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "17.07",
@@ -225,8 +225,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2017-08-28",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "17.06",
@@ -235,8 +235,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2017-06-20",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "17.05",
@@ -245,8 +245,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2017-05-04",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "17.04",
@@ -255,8 +255,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2017-04-03",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     },
     {
       "version": "17.03",
@@ -265,8 +265,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2017-02-23",
-      "download_url": "https://kapeli.com/feeds/Docker.tgz",
-      "size_bytes": 19400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/docker.tgz",
+      "size_bytes": 227402946
     }
   ]
 }

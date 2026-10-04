@@ -15,8 +15,8 @@
       "is_eol": false,
       "is_latest": true,
       "release_date": "2026",
-      "download_url": "https://kapeli.com/feeds/C++.tgz",
-      "size_bytes": 42100000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/cpp.tgz",
+      "size_bytes": 173140596
     },
     {
       "version": "23",
@@ -25,8 +25,8 @@
       "is_eol": false,
       "is_latest": false,
       "release_date": "2024",
-      "download_url": "https://kapeli.com/feeds/C++.tgz",
-      "size_bytes": 42100000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/cpp.tgz",
+      "size_bytes": 173140596
     },
     {
       "version": "20",
@@ -35,8 +35,8 @@
       "is_eol": false,
       "is_latest": false,
       "release_date": "2020",
-      "download_url": "https://kapeli.com/feeds/C++.tgz",
-      "size_bytes": 39500000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/cpp.tgz",
+      "size_bytes": 173140596
     },
     {
       "version": "17",
@@ -45,8 +45,8 @@
       "is_eol": false,
       "is_latest": false,
       "release_date": "2017",
-      "download_url": "https://kapeli.com/feeds/C++.tgz",
-      "size_bytes": 42100000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/cpp.tgz",
+      "size_bytes": 173140596
     },
     {
       "version": "14",
@@ -55,8 +55,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2014",
-      "download_url": "https://kapeli.com/feeds/C++.tgz",
-      "size_bytes": 42100000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/cpp.tgz",
+      "size_bytes": 173140596
     },
     {
       "version": "11",
@@ -65,8 +65,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2011",
-      "download_url": "https://kapeli.com/feeds/C++.tgz",
-      "size_bytes": 42100000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/cpp.tgz",
+      "size_bytes": 173140596
     }
   ]
 }

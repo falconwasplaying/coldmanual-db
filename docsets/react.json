@@ -15,8 +15,8 @@
       "is_eol": false,
       "is_latest": true,
       "release_date": "2024-12-05",
-      "download_url": "https://kapeli.com/feeds/React.tgz",
-      "size_bytes": 14200000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/react.tgz",
+      "size_bytes": 18652664
     },
     {
       "version": "18",
@@ -25,8 +25,8 @@
       "is_eol": false,
       "is_latest": false,
       "release_date": "2022-03-29",
-      "download_url": "https://kapeli.com/feeds/React.tgz",
-      "size_bytes": 14200000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/react.tgz",
+      "size_bytes": 18652664
     },
     {
       "version": "17",
@@ -35,8 +35,8 @@
       "is_eol": false,
       "is_latest": false,
       "release_date": "2020-10-20",
-      "download_url": "https://kapeli.com/feeds/React.tgz",
-      "size_bytes": 14200000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/react.tgz",
+      "size_bytes": 18652664
     },
     {
       "version": "16",
@@ -45,8 +45,8 @@
       "is_eol": false,
       "is_latest": false,
       "release_date": "2017-09-26",
-      "download_url": "https://kapeli.com/feeds/React.tgz",
-      "size_bytes": 14200000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/react.tgz",
+      "size_bytes": 18652664
     },
     {
       "version": "15",
@@ -55,8 +55,8 @@
       "is_eol": false,
       "is_latest": false,
       "release_date": "2016-04-07",
-      "download_url": "https://kapeli.com/feeds/React.tgz",
-      "size_bytes": 14200000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/react.tgz",
+      "size_bytes": 18652664
     }
   ]
 }

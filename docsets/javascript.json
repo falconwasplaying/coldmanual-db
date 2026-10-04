@@ -15,8 +15,8 @@
       "is_eol": false,
       "is_latest": true,
       "release_date": "2024",
-      "download_url": "https://kapeli.com/feeds/JavaScript.tgz",
-      "size_bytes": 28400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/javascript.tgz",
+      "size_bytes": 307010498
     },
     {
       "version": "ES2023",
@@ -25,8 +25,8 @@
       "is_eol": false,
       "is_latest": false,
       "release_date": "2023",
-      "download_url": "https://kapeli.com/feeds/JavaScript.tgz",
-      "size_bytes": 28400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/javascript.tgz",
+      "size_bytes": 307010498
     },
     {
       "version": "ES2022",
@@ -35,8 +35,8 @@
       "is_eol": false,
       "is_latest": false,
       "release_date": "2022",
-      "download_url": "https://kapeli.com/feeds/JavaScript.tgz",
-      "size_bytes": 28400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/javascript.tgz",
+      "size_bytes": 307010498
     },
     {
       "version": "ES2021",
@@ -45,8 +45,8 @@
       "is_eol": false,
       "is_latest": false,
       "release_date": "2021",
-      "download_url": "https://kapeli.com/feeds/JavaScript.tgz",
-      "size_bytes": 28400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/javascript.tgz",
+      "size_bytes": 307010498
     },
     {
       "version": "ES2020",
@@ -55,8 +55,8 @@
       "is_eol": false,
       "is_latest": false,
       "release_date": "2020",
-      "download_url": "https://kapeli.com/feeds/JavaScript.tgz",
-      "size_bytes": 28400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/javascript.tgz",
+      "size_bytes": 307010498
     },
     {
       "version": "ES2015",
@@ -65,8 +65,8 @@
       "is_eol": true,
       "is_latest": false,
       "release_date": "2015",
-      "download_url": "https://kapeli.com/feeds/JavaScript.tgz",
-      "size_bytes": 28400000
+      "download_url": "https://github.com/falconwasplaying/coldmanual-db/raw/main/manuals/javascript.tgz",
+      "size_bytes": 307010498
     }
   ]
 }
