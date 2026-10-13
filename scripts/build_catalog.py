@@ -75,8 +75,15 @@ def build_catalog():
 
     json_files = sorted(DOCSETS_DIR.glob("*.json"))
     if not json_files:
-        print(f"Error: No JSON files found in {DOCSETS_DIR}")
-        sys.exit(1)
+        print(f"Notice: No docset JSON files found in {DOCSETS_DIR}. Generating empty catalog.")
+        with open(CATALOG_PATH, "w", encoding="utf-8") as f:
+            f.write("[]\n")
+        with open(CATALOG_MIN_PATH, "w", encoding="utf-8") as f:
+            f.write("[]\n")
+        print("-" * 60)
+        print("Empty catalog compiled successfully (0 docsets).")
+        print("=" * 60)
+        return
 
     compiled_docsets = []
     total_versions = 0
